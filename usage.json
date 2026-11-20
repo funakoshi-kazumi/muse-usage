@@ -1,10 +1,10 @@
 {
-  "weeklyUsedPercent": 7,
-  "weeklyRemainingPercent": 93,
+  "weeklyUsedPercent": 9,
+  "weeklyRemainingPercent": 91,
   "resetsAt": "2026-11-25T13:09:00+09:00",
   "resetsAtText": "11/25 13:09",
   "extraTokensUsedPercent": 0,
   "extraTokensLeft": "1B",
-  "updatedAt": "2026-11-19T23:12:19.751480+09:00",
-  "updatedAtText": "11/19 23:12"
+  "updatedAt": "2026-11-20T11:12:13.007512+09:00",
+  "updatedAtText": "11/20 11:12"
 }
